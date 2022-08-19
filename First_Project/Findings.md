@@ -43,11 +43,12 @@ And as I guess most used cars from Toyota :)
 
 Excluding ads that are negotiable , the price range of Toyota from 2018, started from 850 and it reached to 350,000:
 
-![image](https://user-images.githubusercontent.com/13345296/185545958-c348fc03-b000-4677-b24e-f7650e7bf722.png)
+![image](https://user-images.githubusercontent.com/13345296/185564658-55d13f68-2f36-41b9-84ca-f3dcc1ca9afe.png)
+
 
 To highlight the top car that's not negotiable, Accent from Hyundai comes first:
 
-![image](https://user-images.githubusercontent.com/13345296/185546768-9d8c456f-9126-4394-b01a-5cc3f6efc5b1.png)
+![image](https://user-images.githubusercontent.com/13345296/185564300-77b877bf-2542-42b6-8a51-40d3e45831e4.png)
 
 
 And I know you have the question I have, Is there used car in the website more than 1 million?
@@ -56,7 +57,9 @@ And I know you have the question I have, Is there used car in the website more t
 
 let'us go down what's the used cars that's more than half million?
 
-![image](https://user-images.githubusercontent.com/13345296/185549023-dbb61975-55c4-4837-afae-89f9b0c31f7e.png)
+![image](https://user-images.githubusercontent.com/13345296/185564753-97a7938a-fd6e-4883-a9bb-dd1d83b033f7.png)
+
+
 
 
 
