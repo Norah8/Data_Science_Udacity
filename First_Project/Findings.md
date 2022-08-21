@@ -5,7 +5,7 @@ As start, I found this data in Kaggle, scraping from website which’s about use
 I heighlighed three points to focus on them in the analysis.
 
 - When the used cars in the website made? 
-- Who's the largest car maker in these advertisement?
+- Who's the largest car manufacturer in these advertisement?
 - What's the price range in the used cars? can be reach to million or half million?
 
 
@@ -32,7 +32,7 @@ But you know the common most older car is Suburban from 1999
 ![best](https://user-images.githubusercontent.com/13345296/185549623-f632b35c-e266-4c48-a490-4d352461b528.jpg)
 
 
-Back to our main question:
+Back to our first main question:
 It appears most cars in the website from 2016, 2015 and 2017:
 
 ![years](https://user-images.githubusercontent.com/13345296/185543499-3d64da0f-ef42-4613-abe5-3ab4423535e7.PNG)
@@ -42,9 +42,9 @@ And as I guess most used cars from Toyota :)
 ![image](https://user-images.githubusercontent.com/13345296/185545381-30b1a46e-773e-496e-8c5e-96001bcede88.png)
 
 
-Excluding ads that are negotiable , the price range of Toyota from 2018, started from 850 and it reached to 350,000:
+Excluding ads that are negotiable , the price range of Toyota, started from 850 and it reached to 350,000:
 
-![image](https://user-images.githubusercontent.com/13345296/185684660-c9a672e0-3361-4da5-b4fd-4f0335b9a9c5.png)
+![image](https://user-images.githubusercontent.com/13345296/185804593-b734941a-4c46-4613-b84c-39bad046d592.png)
 
 
 To highlight the top car that's not negotiable, Accent from Hyundai comes first:
@@ -57,6 +57,8 @@ And I know you have the question I have, Is there used car in the website more t
 # Yes, there's one car which's Mercedes, its price 1,150,000 
 
 let'us go down what's the used cars that's more than half million?
+
+It looks the price variation is large in Mercedes and Bentley, while it appears the prices didn't effect too much by the available options in the cars.
 
 ![image](https://user-images.githubusercontent.com/13345296/185564753-97a7938a-fd6e-4883-a9bb-dd1d83b033f7.png)
 
